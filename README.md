@@ -12,7 +12,7 @@ No meu tempo livre, gosto de jogar (e assistir) futebol (⚽️), assistir filme
 
 Gostaria de me encontrar?
 
-[![Facebook Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.facebook.com/junior.soares.3158652)](https://www.facebook.com/junior.soares.3158652)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/junior.soares.3158652)](https://www.facebook.com/junior.soares.3158652)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/juniorsoares716)](https://twitter.com/juniorsoares716)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junior-soares-189b31141/)](https://www.linkedin.com/in/junior-soares-189b31141/)
 <!--
